@@ -70,7 +70,7 @@ const Cards = () => {
       <Card
         img="./blue-school.png"
         width="35vw"
-        description="Experience school in an interactive augmented environment"
+        description="La réalité augmentée dans nos écoles"
       />
       <Card
         img="./ar-symbol.png"
@@ -123,7 +123,7 @@ const Home = () => {
             margin: "0 auto",
           }}
         >
-          Immersive virtual learning at your fingertips
+          Apprentissage virtuel immersif à portée de main
         </p>
       </div>
 
@@ -136,7 +136,7 @@ const Home = () => {
           margin: "5vh 0",
         }}
       >
-        Virtual learning reimagined
+        Apprenez vos cours à partir de chez vous !
       </p>
       <Button
         type="primary"
@@ -157,7 +157,7 @@ const Home = () => {
           alignSelf: "center",
         }}
       >
-        Get Started
+        Explorer la solution
       </Button>
     </div>
   );
